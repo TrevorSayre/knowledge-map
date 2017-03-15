@@ -4,9 +4,9 @@
 
 ![](http://i.imgur.com/wTMQMt6.jpg)
 
-[Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
+I wrote an article called [Knowledge Bootstrapping](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09) on why I made this and what the future of this project is. In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I just want to share this knowledge. I also use [Anki](https://github.com/nikitavoloboev/research/tree/master/anki) to retain it all in memory. [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
 
-And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
+I really love the talk [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) on what research really means and how you can conduct it efficiently. There is also a [transcript](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html) available.
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
@@ -16,32 +16,32 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-## [My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
+## [My GitHub Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
 
 I really love programming, building and sharing the things I have built. Aside from this I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. 
 
 ## Contributing 🎉
 
-There are few ways in which you can contribute.
+There are a few ways in which you can contribute.
 
 I would love it if you would add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of one possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
 
-Do you have a favourite book or course or project that you have found that you really love? Do you have a favourite website or article or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
+Do you have a favourite book, course, or project that you have found that you really love? Do you have a favourite website, article, or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
 
 Another thing I am doing is giving succint and clear descriptions to each of the main nodes in the graph as can be seen in the [index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) below for some of the nodes. I wish to desribe each of the nodes in the most clear way possible. I would love some help on this by either adding your own descriptions and submitting a pull request or correcting or improving the descriptions I have written. Perhaps I have made a mistake or it could be said better.
 
-As it currently stands, this mind map is used mainly by me but as I explore further and further and do more research, I will try to structure knowledge in a way that visualises the various connections in a way that makes more and more sense. I really dislike the black box nature of Google where you have to know what to ask before getting an answer.
+As it currently stands, this mind map is used mainly by me but as I explore further and further and do more research, I will try to structure the knowledge in a way that visualises the various connections in a way that makes more and more sense. I really dislike the black box nature of Google where you have to know what to ask before getting an answer.
 
-If you do want to help me make my vision of open sourcing and visualising all of the world's knowledge in this way a reality, you can try look into [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs), [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [GitHub repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG), [images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu) and see what I have missed adding there that you think should be added. Quality over quantitiy though. The goal is to represent knoweldge visually and see connections between each of the nodes. 
+If you do want to help me make my vision of open sourcing and visualising all of the world's knowledge in this way a reality, you can try to look into [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs), [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [GitHub repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG), [images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu) and see what I have missed. Add what you think should be added, although please favor quality over quantity. The goal is to represent knowledge visually and see connections between each of the nodes. 
 
-There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions of what I can add or how I can improve this project. I am heavily learning and experimenting with the web stack as I have some really exciting plans for this project, mind maps and visualisation in general. If you find this idea appealing to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts.
+There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions on what I can add or how I can improve this project. I am heavily learning and experimenting with the web stack as I have some really exciting plans for this project, mind maps, and visualisation in general. If you find this idea appealing to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts.
 
 # Future 🚀
 
 I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics.
  
 # Ask 💬
-If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
+If you have some specific questions about this project or about myself, my interests, and my personal workflow I would love to hear them and you can ask [new questions](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
 
 Learn something new. 🎊
 
